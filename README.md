@@ -91,7 +91,7 @@ B.   The Grantee has agreed to receive the Grant subject to the terms and condit
 5.3.  Neither party shall make any announcement in respect of the subject matter of this Agreement without the prior written consent of the other party.
     
 
-### 7. WARRANTIES AND UNDERTAKINGS
+### 6. WARRANTIES AND UNDERTAKINGS
     
 The Grantee warrants, undertakes and agrees that:
 
