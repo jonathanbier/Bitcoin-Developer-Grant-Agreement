@@ -30,18 +30,18 @@ B.   The Grantee has agreed to receive the Grant subject to the terms and condit
 2.1 Without limitation to the Grantor’s rights and remedies under contract or law, the Grantor’s obligation to make any payments of the Grant shall be subject to the Grantee:
     
 
-  2.1.1.  Not being in breach of any term of this Agreement;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1.  Not being in breach of any term of this Agreement;
        
-   2.1.2  Continuing, in the reasonable opinion of the Grantor, to work on projects related to the Bitcoin Development;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2  Continuing, in the reasonable opinion of the Grantor, to work on projects related to the Bitcoin Development;
        
-   2.1.3.  Ensuring all work product generated from the Bitcoin Development is made available through an open source software licence
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3.  Ensuring all work product generated from the Bitcoin Development is made available through an open source software licence
    without restriction;
        
-   2.1.4.  Complying with applicable laws and regulations, or not having committed any action or inaction which in the reasonable opinion of
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.4.  Complying with applicable laws and regulations, or not having committed any action or inaction which in the reasonable opinion of
    the Grantor may result in the Grantee being in breach of applicable
    laws and regulations; and
        
-   2.1.5.   Not undertaking activities that are likely to bring the reputation of the Bitcoin Development or the Grantor into disrepute.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.5.   Not undertaking activities that are likely to bring the reputation of the Bitcoin Development or the Grantor into disrepute.
 
 
 
