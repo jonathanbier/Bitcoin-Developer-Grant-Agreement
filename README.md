@@ -65,9 +65,9 @@ B.   The Grantee has agreed to receive the Grant subject to the terms and condit
 4.3.  The Grantor shall be entitled to terminate immediately by giving written notice upon the occurrence of any of the following events:
     
 
-4.3.1.   The Grantee is not, at any time, in compliance with any of the conditions set forth in Clause 2.1; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3.1.   The Grantee is not, at any time, in compliance with any of the conditions set forth in Clause 2.1; or
     
-4.3.2.   The Grantee is subject to any bankruptcy, insolvency, winding up or similar order, petition, motion or action.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3.2.   The Grantee is subject to any bankruptcy, insolvency, winding up or similar order, petition, motion or action.
     
 
 4.4.   Upon expiry or termination of this Agreement, this Agreement shall cease to have any further force and effect except that Clauses 3, 4.4 and 5 to 8 shall survive. Termination or expiry of this Agreement shall not affect any rights or remedies accruing to a party prior to such termination or expiry.
@@ -81,11 +81,11 @@ B.   The Grantee has agreed to receive the Grant subject to the terms and condit
 5.2.   The obligation of confidentiality contained in Clause 5.1 shall not apply or shall cease to apply to any Confidential Information which:
     
 
-5.2.1.  at the time of its disclosure by the disclosing party is already in the public domain or which subsequently enters the public domain other than by breach of the terms of this Agreement by the receiving party;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.1.  at the time of its disclosure by the disclosing party is already in the public domain or which subsequently enters the public domain other than by breach of the terms of this Agreement by the receiving party;
     
-5.2.2.   is already known to the receiving party as evidenced by written records at the time of its disclosure by the disclosing party and was not otherwise acquired by the receiving party from the disclosing party under any obligations of confidence; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.2.   is already known to the receiving party as evidenced by written records at the time of its disclosure by the disclosing party and was not otherwise acquired by the receiving party from the disclosing party under any obligations of confidence; or
     
-5.2.3.  is at any time after the date of this Agreement acquired by the receiving party from a third party having the right to disclose the same to the receiving party without breach of the obligations owed by that party to the disclosing party.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2.3.  is at any time after the date of this Agreement acquired by the receiving party from a third party having the right to disclose the same to the receiving party without breach of the obligations owed by that party to the disclosing party.
     
 
 5.3.  Neither party shall make any announcement in respect of the subject matter of this Agreement without the prior written consent of the other party.
