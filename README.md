@@ -1,5 +1,10 @@
 ### NOTE: This agreement is released under the terms of the MIT license. See [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
 
+### NOTE: This agreement assumes an individual as the Grantee and that they receive their grant in tranche payments.
+
+### NOTE: Parties recommended to obtain legal advice when using this template.
+
+
 
 
 # Bitcoin Development Grant Agreement
