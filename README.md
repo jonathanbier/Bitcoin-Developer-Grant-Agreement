@@ -128,7 +128,7 @@ The Grantee warrants, undertakes and agrees that:
 
 This Agreement is governed by and shall be construed in accordance with [Insert relevant jurisdiction] law. Any dispute, controversy, difference or claim arising out of or relating to this contract, including the existence, validity, interpretation, performance, breach or termination thereof or any dispute regarding non-contractual obligations arising out of or relating to it shall be referred to and finally resolved by arbitration administered by the [Insert relevant jurisdiction] Arbitration Centre under the [Insert relevant jurisdiction] Arbitration Rules in force when the Notice of Arbitration is submitted. The law of this arbitration clause shall be [Insert relevant jurisdiction] law. The seat of arbitration shall be [Insert relevant jurisdiction]. The number of arbitrators shall be one. The arbitration proceedings shall be conducted in English.
 
-The parties hereto have executed this agreement as a deed as of the date first written above:
+The parties hereto have executed this agreement as of the date first written above:
 
 ## For and on behalf of [Grantor]:
 
