@@ -134,11 +134,11 @@ The parties hereto have executed this agreement as of the date first written abo
 
 Signature: <br/><br/>
 
-Name:
+Name: oranat yusutar
 
-Title:
+Title:Acknowledged and it was a great honor to help improve many things And thank you for the award and your welcome
 
-Date:
+Date:01/04/2020
 
   
   
@@ -147,9 +147,9 @@ Date:
 
 Signature: <br/><br/>
 
-Name: 
+Name: oranat yusutar
 
-Date:
+Date:01/04/2020
   
   
   
