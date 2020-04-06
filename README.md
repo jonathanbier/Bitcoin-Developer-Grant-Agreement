@@ -11,13 +11,14 @@
 
 This Bitcoin Development Grant Agreement (this “Agreement”) is dated [DATE] between:
 
-1.  [NAME OF GRANTOR], whose principal address is at [ADDRESS] (Grantor) [Note: Jurisdiction of Grantor to be considered when deciding governing law and arbitration location in Clause 8.] 
+1.  [NAME OF GRANTOR], whose principal address is at [ADDRESS] Thailand, house number 12, Moo 9 Tambon Racha Thewa, Amphoe Bang Phli, Province Samut Prakan 10540 (Grantor) 
+         [Note: Jurisdiction of Grantor to be considered when deciding governing law and arbitration location in Clause 8.] 
     
-2.  [NAME OF RECIPIENT], [Note: Insert nationality and passport number] whose principal address is at [ADDRESS] (Grantee)
+2.  [NAME OF RECIPIENT oranat yusutar ], [Note: Insert nationality and passport number AA6482507] whose principal address is at [ADDRESS Thailand, house number 12, Moo 9 Tambon Racha Thewa, Amphoe Bang Phli, Province Samut Prakan 10540 (Grantee)
 
-## RECITALS
+         ## RECITALS
 
-A.   The Grantor has agreed to pay [Note: Insert amount] (the “Grant”) to the Grantee to assist the Grantee in undertaking work relating to the development of Bitcoin and its related protocols (“Bitcoin Development”).
+A.   The Grantor has agreed to pay [Note: Insert amount THAI ] (the “Grant”) to the Grantee to assist the Grantee in undertaking work relating to the development of Bitcoin and its related protocols (“Bitcoin Development”).
     
 B.   The Grantee has agreed to receive the Grant subject to the terms and conditions set out in this Agreement.
 
@@ -28,7 +29,13 @@ B.   The Grantee has agreed to receive the Grant subject to the terms and condit
 
 1.1. Subject to the conditions set forth in Clause 2, the Grantor shall pay the Grant to the Grantee [monthly in 12 equal US Dollar denominated instalments] in accordance with Schedule 1 [Note: Insert in Schedule 1 the payment dates and amounts to be paid.]
     
-1.2 Each portion of the Grant shall be paid either, into a bank account in the name of the Grantee as follows, or to a Bitcoin address provided by the grantee: [Note: Insert account details or Bitcoin address of Grantee for receiving the Grant.]
+1.2 Each portion of the Grant shall be paid either, into a bank account in the name of the Grantee as follows, or to a Bitcoin address provided by the grantee: [Note: Insert account details or Bitcoin address of Grantee for receiving the Grant.
+    Note: Insert account Account № / IBAN: KASIKORNBANK Public Company Limited (KBANK)
+           Bank Address: 1 Soi Kasikornthai Ratburana Rd, Bangkok 10140 Tel: (66 2) 222-0000 Fax: (66 2) 470- 2749
+           SWIFT : KASITHBK (www.kasikornbank.com)
+           Kasikorn Bank Account
+           Account name oranat yusutar
+           Account number 7602756534
 
 ### 2. CONDITIONS
 
@@ -134,22 +141,21 @@ The parties hereto have executed this agreement as of the date first written abo
 
 Signature: <br/><br/>
 
-Name:
+Name: oranat yusutar
 
-Title:
+Title:Sign the name, agree to receive the money according to the agreement
 
-Date:
+Date:07/02/2020
 
-  
   
 
 ## Grantee
 
 Signature: <br/><br/>
 
-Name: 
+Name: oranat yusutar
 
-Date:
+Date:07/02/2020
   
   
   
