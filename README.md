@@ -48,7 +48,7 @@ B.   The Grantee has agreed to receive the Grant subject to the terms and condit
        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.5.   Not undertaking activities that are likely to bring the reputation of the Bitcoin Development or the Grantor into disrepute.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.6 Submitting a short report to the grantor every 6 months, which is intended to be published under an open source license. The reports should related to the development work conducted by the grantee and be produced up to a suitable standard, although there is a degree of flexibility as to the subject matter of the report. The final decision as to the suitability of the content will be determined by the grantor.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.6 Submitting a short report to the grantor every 6 months, which is intended to be published under an open source license. The reports should related to the development work conducted by the grantee and be produced up to a suitable standard, although there is a degree of flexibility as to the subject matter of the report. The final decision as to the suitability of the content will be determined by the Grantor.
 
 
 
