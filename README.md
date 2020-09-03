@@ -7,9 +7,9 @@
 
 
 
-# Bitcoin Development Grant Agreement
+# Bitcoin Developer Grant Agreement
 
-This Bitcoin Development Grant Agreement (this “Agreement”) is dated [DATE] between:
+This Bitcoin Developer Grant Agreement (this “Agreement”) is dated [DATE] between:
 
 1.  [NAME OF GRANTOR], whose principal address is at [ADDRESS] (Grantor) [Note: Jurisdiction of Grantor to be considered when deciding governing law and arbitration location in Clause 8.] 
     
